@@ -1,4 +1,4 @@
-# contracts
+# Solidity Proxy Contracts
 
 Sample proxy contract for Ethereum or BSC
 
