@@ -16,3 +16,16 @@ OwnerFee
 BurnFee
 
 
+Deploy first:
+
+TransparentUpgradeableProxy.sol
+UpgradeableProxy.sol
+Address.sol
+Context.sol
+Ownable.sol
+Proxy.sol
+ProxyAdmin.sol
+
+Deploy second:
+Tokenname.sol
+
