@@ -8,24 +8,24 @@ Adds reflection
 
 
 Fees:
+ <br />
+EcoSystemFee <br />
+LiquidityFee <br />
+TaxFee <br />
+OwnerFee <br />
+BurnFee <br />
 
-EcoSystemFee
-LiquidityFee
-TaxFee
-OwnerFee
-BurnFee
 
+Deploy first: <br />
 
-Deploy first:
-
-TransparentUpgradeableProxy.sol
-UpgradeableProxy.sol
-Address.sol
-Context.sol
-Ownable.sol
-Proxy.sol
-ProxyAdmin.sol
-
-Deploy second:
-Tokenname.sol
+TransparentUpgradeableProxy.sol <br />
+UpgradeableProxy.sol <br />
+Address.sol <br />
+Context.sol <br />
+Ownable.sol <br />
+Proxy.sol <br />
+ProxyAdmin.sol <br />
+ <br />
+Deploy second: <br />
+Tokenname.sol <br />
 
